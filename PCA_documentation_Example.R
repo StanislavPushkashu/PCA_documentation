@@ -1,6 +1,6 @@
 # Exploration
 # file path needs to be changed for reading the data
-protein_data <- read.csv("/Users/stanislav_puscasu/Downloads/PCA Protein data.csv")
+protein_data <- read.csv("PCA Protein data.csv")
 
 protein_data
 
